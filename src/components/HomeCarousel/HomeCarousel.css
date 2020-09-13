@@ -1,0 +1,19 @@
+.home__image {
+  width: 100%;
+  mask-image: linear-gradient(to bottom, rgb(0, 0, 0, 1), rgb(0, 0, 0, 0));
+  margin-left: auto;
+  margin-right: auto;
+}
+.carousel-indicators {
+  top: 300px;
+}
+
+.carousel-control-next .carousel-control-next {
+  top: 80px !important;
+  align-items: normal !important;
+  color: #000000 !important;
+}
+
+.home__carousel {
+  margin-bottom: -150px;
+}
